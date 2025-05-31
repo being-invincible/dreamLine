@@ -214,3 +214,7 @@ Once everything is set up:
 4. Customize the UI or add new features as needed
 
 Your chatbot application is now ready for development and testing!
+
+References:
+
+1. [Solara GitHub](https://github.com/widgetti/solara/)
