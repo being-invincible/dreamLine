@@ -28,27 +28,27 @@ Create a new virtual environment:
 
 ```bash
 # For Windows
-python -m venv venv
+python -m venv dreamlineapp
 
 # For macOS/Linux
-python3 -m venv venv
+python3 -m venv dreamlineapp
 ```
 
 ## 3. Activate Virtual Environment
 
 ### Windows (Command Prompt):
 ```bash
-venv\Scripts\activate
+dreamlineapp\Scripts\activate
 ```
 
 ### Windows (PowerShell):
 ```bash
-venv\Scripts\Activate.ps1
+dreamlineapp\Scripts\Activate.ps1
 ```
 
 ### macOS/Linux:
 ```bash
-source venv/bin/activate
+source dreamlineapp/bin/activate
 ```
 
 You should see `(venv)` at the beginning of your command prompt when activated.
